@@ -7,9 +7,9 @@ app = FastAPI()
 async def ping():
     return "Hello, i am alive"
 
-@app.post("/preduct")
+@app.post("/predict")
 async def predict(
-    file: UploadFile = File()
+    file: UploadFile = File(...)
 ):
     pass
     
