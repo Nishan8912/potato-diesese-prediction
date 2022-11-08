@@ -13,5 +13,7 @@ This project helped me to further extend my thoughts on how CNN architecture wor
 The challenging part of this project is proper preprocessing of the images before training so that our model capture differential features.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![pt1](https://user-images.githubusercontent.com/85185243/200533458-0caee2c1-c19f-4f0b-b2a4-95eed00f461d.jpg)
+![pt2](https://user-images.githubusercontent.com/85185243/200533517-083e3522-cdd2-4153-a4f4-5444429f9d13.jpg)
+
 
